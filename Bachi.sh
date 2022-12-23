@@ -10,8 +10,6 @@ echo " 𝐉𝐨𝐢𝐧  my 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 Account"|lolcat
  echo "Bachi"|figlet|lolcat
 echo""
  echo "____________________"
- sleep 1
- 
  
  
  while :
